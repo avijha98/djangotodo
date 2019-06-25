@@ -12,6 +12,6 @@ and type following command in you terminal
  python manage.py migrate 
  python manage.py runserver
  
- and you will this cool to-do app on you local host
+ and you will this cool to-do app on your local host
  
 
